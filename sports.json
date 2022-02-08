@@ -1,6 +1,6 @@
 {"records":[
-    {"id":1,"name":"Tenzin","age":22,"gender":"Male","salary":50000,"Address":"Bangalore"},
-    {"id":2,"name":"Yeshi","age":23,"gender":"Female","salary":70000,"Address":"Mumbai"},
+    {"id":1,"name":"Bale","age":22,"gender":"Male","salary":50000,"Address":"Bangalore"},
+    {"id":2,"name":"Mrinis","age":23,"gender":"Male","salary":70000,"Address":"Mumbai"},
     {"id":3,"name":"David","age":26,"gender":"Male","salary":40000,"Address":"Delhi"},
     {"id":4,"name":"Emma","age":25,"gender":"Female","salary":34000,"Address":"Kolkata"},
     {"id":5,"name":"Nailea","age":22,"gender":"Female","salary":66000,"Address":"Pune"},
